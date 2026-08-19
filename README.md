@@ -1,5 +1,6 @@
 # xujc-RouterAutoConnect
 厦门大学嘉庚学院 宿舍校园网自动连接脚本（锐捷）
+Script for Automatically Connecting to the Campus Network in Dormitories at Xiamen University Tan Kah Kee College (Ruijie)
 
 把xujc-RouterAutoConnect放入/etc/init.d
 
