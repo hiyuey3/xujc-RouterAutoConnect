@@ -1,5 +1,5 @@
 # xujc-RouterAutoConnect
-厦门大学嘉庚学院宿舍校园网自动连接脚本
+厦门大学嘉庚学院 宿舍校园网自动连接脚本（锐捷）
 
 把xujc-RouterAutoConnect放入/etc/init.d
 
